@@ -35,6 +35,9 @@ To run the trained model,
 
 ## Troubleshooting
 - If you encounter issues with TensorFlow imports, ensure TensorFlow is installed correctly and your environment is activated.
+
+Chatbot image:
+![Image](https://github.com/user-attachments/assets/db013cbc-8366-4a06-a810-5383ab463dc7)
 - Use `test_tf_import.py` to verify TensorFlow Keras imports:
   ```
   python test_tf_import.py
